@@ -23,9 +23,6 @@ array.length.times do |index|
   if array[index] < min
     min = array[index]
   end
-else 
-  if array[index] == min
-    min = array[index]
   end
 end
 min 
