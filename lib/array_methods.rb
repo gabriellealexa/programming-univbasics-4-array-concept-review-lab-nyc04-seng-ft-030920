@@ -24,6 +24,5 @@ array.length.times do |index|
     min = array[index]
   end
   end
-end
 min 
 end 
